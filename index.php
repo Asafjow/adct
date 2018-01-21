@@ -9,8 +9,8 @@
 <html lang="en">
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-	<title>Real Server <?php echo substr(substr(strrchr($_SERVER["SERVER_ADDR"],'.'),1),-1); echo " " . $_SERVER["REQUEST_URI"]; ?></title>
-	<meta name="author" content="Artiom Lichtenstein">
+	<title>ASAF JOW Real Server <?php echo substr(substr(strrchr($_SERVER["SERVER_ADDR"],'.'),1),-1); echo " " . $_SERVER["REQUEST_URI"]; ?></title>
+	<meta name="author" content="asafjow">
 	<script language="JavaScript" type="text/javascript">
 		function funColExpand(obj, link) {
 			var elobj = document.getElementById(obj);
