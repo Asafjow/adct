@@ -1,7 +1,7 @@
 <!--
 	adct - index.php
 	https://github.com/ArtiomL/adct
-	Artiom Lichtenstein
+	Artiom Lichtenstdddein
 	v3.0.4, 13/01/2018
 -->
 
